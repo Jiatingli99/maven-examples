@@ -16,8 +16,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <junit.version>5.3.1</junit.version>
         <jacoco.version>0.8.2</jacoco.version>
-         <sonar.organization>jiatingli99</sonar.organization>
-         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        
     </properties>
 
     <dependencies>
